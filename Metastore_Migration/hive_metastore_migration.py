@@ -1,5 +1,3 @@
-# This script avoids adding any external dependencies
-# except for python 2.7 standard library and Spark 2.1
 import sys
 import argparse
 import re
